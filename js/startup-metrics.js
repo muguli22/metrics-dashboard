@@ -21,8 +21,8 @@ var salebellwait = 3000;
 var startupmetrics = JSON.parse(PUBNUB.db.get(settings.channel)) || {
 
     // Whitelable
-    title            : "Startup",
-    subtitle         : "I'M SO FANCY",
+    title            : "Max T's",
+    subtitle         : "STARTUP METRICS",
     logo_img         : "img/pubnub.png",
 
     // Vanity Labels
