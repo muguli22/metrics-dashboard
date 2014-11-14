@@ -1,19 +1,13 @@
-# PubNub Startup Metrics Dashboard
+# PubNub based Metrics Dashboard
 
-> Home Page: [PubNub Startup Metrics Dashboard](http://www.pubnub.com/developers/demos/startup-metrics-dashboard/)
+> Home Page: [PubNub Startup Metrics Dashboard](https://github.com/fdizile/metrics-dashboard/archive/gh-pages.zip/)
 
-> Live Demo: [Startup Dashboard](http://stephenlb.github.io/startup-metrics-dashboard/)
-
-> Product Hunt: [Startup Metrics Dashboard](http://www.producthunt.com/posts/startup-metrics-dashboard)
+> Live Demo: [Startup Dashboard](http://fdizile.github.io/metrics-dashboard/)
 
 This is a 5-step model for using Dave McClure's 
 metrics framework for your business and customers,
 and how to apply it to your product and marketing efforts.
 Acquisition, Activation, Retention, Referral, and Revenue (AARRR!)
-
-#### See for Yourself
-
-[![PubNub Startup Metrics Dashboard](http://pubnub.s3.amazonaws.com/assets/startup-metrics-dasbhoard-video-4.gif)](http://www.pubnub.com/developers/demos/startup-metrics-dashboard/)
 
 ### Let's make your Metrics Realtime
 
