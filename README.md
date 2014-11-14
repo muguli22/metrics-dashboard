@@ -1,6 +1,6 @@
 # PubNub based Metrics Dashboard
 
-> Home Page: [PubNub Startup Metrics Dashboard](https://github.com/fdizile/metrics-dashboard/archive/gh-pages.zip/)
+> Download: [Complete .zip](https://github.com/fdizile/metrics-dashboard/archive/gh-pages.zip/)
 
 > Live Demo: [Startup Dashboard](http://fdizile.github.io/metrics-dashboard/)
 
