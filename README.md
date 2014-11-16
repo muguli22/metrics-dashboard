@@ -61,7 +61,6 @@ send a signal to the dashboard instantly to change.
 // Whitelable your Dashboard
 title            : "Startup",
 subtitle         : "Weekly Goals",
-logo_img         : "img/pubnub.png",
 
 // Referral Labels
 vanity_one       : 'MENTIONS',
