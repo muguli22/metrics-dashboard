@@ -23,7 +23,6 @@ var startupmetrics = JSON.parse(PUBNUB.db.get(settings.channel)) || {
     // Whitelable
     title            : "Max T's",
     subtitle         : "I'm So Fancy",
-    logo_img         : "img/pubnub.png",
 
     // Vanity Labels
     vanity_one       : 'MENTIONS',
